@@ -1,0 +1,10 @@
+body {
+  background-color: blanchedalmond;
+  margin: 0;
+}
+
+.header {
+  background-color: rgb(253, 211, 163);
+  padding-block: 15px;
+  font-size: 50px;
+}
