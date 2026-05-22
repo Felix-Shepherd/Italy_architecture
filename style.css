@@ -1,10 +1,12 @@
 body {
   background-color: blanchedalmond;
   margin: 0;
+  padding-top: 200px;
 }
 
 .header {
-  background-color: rgb(253, 211, 163);
+  background: rgba(253, 211, 163, 0.8);
+  backdrop-filter: blur(10px);
   padding-block: 15px;
   font-size: 50px;
   position: fixed;
