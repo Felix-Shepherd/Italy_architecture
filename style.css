@@ -7,9 +7,19 @@ body {
   background-color: rgb(253, 211, 163);
   padding-block: 15px;
   font-size: 50px;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  z-index: 10;
 }
 
 .border {
   height: 10px;
-  background: linear-gradient(rgb(129, 129, 129), blanchedalmond);
+  background: linear-gradient(rgb(110, 110, 110), transparent);
+  position: fixed;
+  width: 100%;
+  top: 190px;
+  left: 0;
+  z-index: 9;
 }
