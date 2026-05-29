@@ -95,3 +95,7 @@ Adoration of the Magi (1496):
 * Nogle ridder, nogle løber, nogle sidder, nogle har fokus på midten af billedet. Meget kaotisk. Mange farver. Meget dionysisk.
 * Ret rummeligt, hvis der ikke var så mange mennesker. Med en stor baggrund betegnes kaos som værende alle steder, og ikke bare mellem et par få folk.
 * Alle kommer for at se Jomfru Maria og Josef’s søn, Jesus. De ridder, går og læner sig ind for at se ham, fremhævet af helgenernes glorier.
+
+
+
+
